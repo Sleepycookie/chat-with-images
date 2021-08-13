@@ -1,9 +1,11 @@
 const TheirMessage = () => {
-    return(
+
+    return (
         <div>
             TheirMessage
         </div>
     )
+
 }
 
 export default TheirMessage;
