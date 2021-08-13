@@ -1,3 +1,11 @@
+För att logga ut från konto: öppna konsolen, gå till "application" inne i den öppna local storage och sen med högerclick tryck på "clear" och reloada sidan
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
